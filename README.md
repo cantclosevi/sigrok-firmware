@@ -1,0 +1,2 @@
+# sigrok-firmware
+fpga firmware for 0x0030, 0x0031, 0x0034 and 0x0035 devices
